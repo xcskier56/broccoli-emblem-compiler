@@ -7,7 +7,7 @@
   "version": "0.4.0-alpha",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antramm/broccoli-emblem-compiler"
+    "url": "https://github.com/xcskier56/broccoli-emblem-compiler"
   },
   "keywords": [
     "Ember.js",
@@ -23,7 +23,7 @@
   "dependencies": {
     "broccoli-filter": "^0.1.10",
     "ember-template-compiler": "git+https://github.com/toranb/ember-template-compiler.git",
-    "emblem": "git+https://github.com/machty/emblem.js.git"
+    "emblem": "git+https://github.com/xcskier56/emblem.js.git"
   },
   "devDependencies": {},
   "optionalDependencies": {}
