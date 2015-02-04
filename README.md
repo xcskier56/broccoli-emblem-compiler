@@ -5,7 +5,7 @@ Emblem.js precompiler for projects that use broccoli
 ## Installation
 
 ```bash
-npm install --save broccoli-emblem-compiler
+npm install --save-dev broccoli-emblem-compiler-rails
 ```
 
 ## Usage Example

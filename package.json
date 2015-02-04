@@ -1,10 +1,8 @@
 {
-  "author": {
-    "name": "Anthony Ramm"
-  },
-  "name": "broccoli-emblem-compiler",
-  "description": "Emblem.js precompiler for projects that use broccoli",
-  "version": "0.4.0-alpha",
+  "author": "Doug DeBold",
+  "name": "broccoli-emblem-compiler-rails",
+  "description": "Emblem.js precompiler for broccoli with Ruby on Rails and ember-cli-rails. This uses a modified version of emblem.js that removes a spec_helper.rb file that causes foreman and heroku multibuilpack to fail.",
+  "version": "0.1.0-beta",
   "repository": {
     "type": "git",
     "url": "https://github.com/xcskier56/broccoli-emblem-compiler"
@@ -26,5 +24,13 @@
     "emblem": "git+https://github.com/xcskier56/emblem.js.git"
   },
   "devDependencies": {},
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/xcskier56/broccoli-emblem-compiler/issues"
+  },
+  "homepage": "https://github.com/xcskier56/broccoli-emblem-compiler",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
